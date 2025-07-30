@@ -11,7 +11,7 @@
 
 This data analysis project aims to provide insights into The churn analysis of a tel communication company over the past year. A comprehensive view of customer behavior and factors influencing churn across age, tenure, device usage, customer satisfaction, and gender
 
-![bar plot](https://github.com/Irene-arch/Documenting_Example/assets/56026296/5ebedeb8-65e4-4f09-a2a5-0699119f5ff7)
+
 
 
 ### Data Sources
