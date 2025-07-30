@@ -45,7 +45,7 @@ EDA involved exploring the churn data to answer key questions, such as:
 
 ### Data Analysis
 
-Include some interesting code/features worked with
+Include some interesting formula features worked with
 
 ```Excel formula
 VLOOKUP()
